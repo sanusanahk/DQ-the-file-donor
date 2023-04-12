@@ -272,7 +272,7 @@ async def next_page(bot, query):
                     ],
                 )
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#files#{offset}")
+        InlineKeyboardButton("⚠️ Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM ⚠️", callback_data=f"send_fall#files#{offset}")
     ])
     btn.insert(0, [
         InlineKeyboardButton("⚡ Cʜᴇᴄᴋ Bᴏᴛ PM ⚡", url=f"https://t.me/{temp.U_NAME}")
@@ -645,10 +645,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                  InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                  InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-               ],[
-                  InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                       InlineKeyboardButton('𝐎𝐓𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+yWXWqxdtftM1NGM9')
+                     ],[
+                       InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞 𝐋𝐢𝐧𝐤𝐬', url='https://t.me/CL_Linkz')
                  ]
                 ]
             )
@@ -1487,7 +1486,7 @@ async def auto_filter(client, msg, spoll=False):
             )
 
     btn.insert(0, [
-        InlineKeyboardButton("! Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM !", callback_data=f"send_fall#{pre}#{0}")
+        InlineKeyboardButton("⚠️ Sᴇɴᴅ Aʟʟ Fɪʟᴇs Tᴏ PM ⚠️", callback_data=f"send_fall#{pre}#{0}")
     ])
 
     btn.insert(0, [
