@@ -155,10 +155,11 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                          InlineKeyboardButton('𝐎𝐓𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+yWXWqxdtftM1NGM9')
+
+                     ],[
+
+                          InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞 𝐋𝐢𝐧𝐤𝐬', url='https://t.me/CL_Linkz')
                          ]
                         ]
                     )
@@ -174,10 +175,9 @@ async def start(client, message):
                     reply_markup=InlineKeyboardMarkup(
                         [
                          [
-                          InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                          InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                       ],[
-                          InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                       InlineKeyboardButton('𝐎𝐓𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+yWXWqxdtftM1NGM9')
+                     ],[
+                       InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞 𝐋𝐢𝐧𝐤𝐬', url='https://t.me/CL_Linkz')
                          ]
                         ]
                     )
@@ -292,10 +292,9 @@ async def start(client, message):
                 reply_markup=InlineKeyboardMarkup(
                     [
                      [
-                      InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-                      InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-                   ],[
-                      InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+                       InlineKeyboardButton('𝐎𝐓𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+yWXWqxdtftM1NGM9')
+                     ],[
+                       InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞 𝐋𝐢𝐧𝐤𝐬', url='https://t.me/CL_Linkz')
                      ]
                     ]
                 )
@@ -345,10 +344,9 @@ async def start(client, message):
         reply_markup=InlineKeyboardMarkup(
             [
              [
-              InlineKeyboardButton('Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url=GRP_LNK),
-              InlineKeyboardButton('Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ', url=CHNL_LNK)
-           ],[
-              InlineKeyboardButton("Bᴏᴛ Oᴡɴᴇʀ", url="t.me/creatorbeatz")
+              InlineKeyboardButton('𝐎𝐓𝐓 𝐔𝐩𝐝𝐚𝐭𝐞𝐬', url='https://t.me/+yWXWqxdtftM1NGM9')
+             ],[
+              InlineKeyboardButton('𝐌𝐨𝐯𝐢𝐞 𝐋𝐢𝐧𝐤𝐬', url='https://t.me/CL_Linkz')
              ]
             ]
         )
